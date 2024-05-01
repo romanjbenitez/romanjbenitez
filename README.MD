@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
@@ -26,10 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
-<img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
-
-
-
 ###
 
 <div align="left">
